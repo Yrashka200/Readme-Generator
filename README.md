@@ -19,11 +19,15 @@ Readme Generator for Github Repos
 ## ⚙️ Installation
 ```bash
 pip install -r requirements.txt
-🚀 Usage
-python main.py
-👤 Author
+```
 
-Yrashka
+```bash
+python main.py
+```
+
+
+# 👤 Author
+## Yrashka
 
 
 ## 📊 GitHub Stats
