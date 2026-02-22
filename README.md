@@ -27,14 +27,11 @@ python main.py
 
 
 # 👤 Author
-## Yrashka
+Yrashka
 
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Yrashka200&show_icons=true&theme=onedark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yrashka200&layout=compact&theme=onedark)
-
+# Support
+Please give this project a star if you find it useful! ⭐
 
 ## 📜 License
 
